@@ -3,5 +3,8 @@ public class day01 {
 
 
         System.out.println("here we want to go");
+
+        System.out.println("some updates");
+        System.out.println("i have added");
     }
 }
